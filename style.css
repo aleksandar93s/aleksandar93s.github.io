@@ -1,0 +1,218 @@
+body{
+  width: 800px;
+  height: 700px;
+  margin: auto;
+}
+#container{
+  background: yellow;
+  width: 800px;
+  height: 750px;
+}
+#header{
+  background: white;
+  margin-left: 0px;
+  margin-right: 0px;
+  height: 50px;
+  vertical-align: center;
+}
+#web_design{
+  color: black;
+  text-shadow: 2px -3px 2px yellow;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: "Bradley Hand ITC";
+  display: inline-block;
+  margin-left: 270px;
+}
+#web_design a{
+  color: black;
+}
+#header a{
+  text-decoration: none;
+}
+.unselected{
+  display: inline-block;
+  padding: 10px;
+  float: right;
+  margin-right: 50px;
+  font-family: Arial;
+  color: yellow;
+  background: black;
+}
+#header a:hover{
+  background: yellow;
+  color: black;
+  border: 1px solid;
+}
+#footer{
+  background: white;
+  height: 20px;
+  margin-top: 70px;
+  text-align: center;
+  margin-left: -8px;
+  margin-right: -8px;
+  font-family: Arial;
+  font-size: 12px;
+}
+#slika{
+  border: solid 3px ;
+  margin-top: 80px;
+  margin-left: 50px;
+  display: block;
+}
+#text{
+  display: block;
+  margin-left: 350px;
+  margin-top: -220px;
+  width: 400px;
+  font-family: Arial;
+  word-spacing: 5px;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: justify;
+}
+.selected{
+  display: inline-block;
+  padding: 10px;
+  float: right;
+  margin-right: 50px;
+  font-family: Arial;
+  color: black;
+  background: yellow;
+  border: 1px solid;
+}
+#kontakt {
+  display: block;
+  font-family: Arial;
+  word-spacing: 5px;
+  letter-spacing: 1px;
+  line-height: 22px;
+  font-size: 15px;
+  margin-top: 130px;
+  margin-left: 170px;
+  border: 2px solid;
+  padding: 10px;
+  width: 415px;
+}
+#mapa{
+  display: inline-block;
+ margin-top: 50px;
+  margin-left: 120px;
+}
+#footer1{
+  background: white;
+  height: 20px;
+  margin-top: 49px;
+  text-align: center;
+  margin-left: 0px;
+  margin-right: 0px;
+  font-family: Arial;
+  font-size: 12px;
+}
+#selection{
+  margin-top: 230px;
+  margin-left: -75px;
+  display: inline-block;
+  width: 800px;
+}
+#selection a{
+  text-decoration: none;
+}
+#navigation{
+  margin-top: 30px;
+  margin-left: 100px;
+  display: inline-block;
+}
+#hobi{
+  width: 300px;
+  margin-top: 200px;
+  margin-left: 50px;
+  text-align: justify;
+  font-size: 17px;
+  line-height: 22px;
+  display: block;
+  border: 2px solid;
+  padding: 10px;
+  font-family: Arial;
+}
+#slika2{
+  display: block;
+  margin-left: 400px;
+  margin-top: -435px;
+}
+#footer2{
+  background: white;
+  height: 20px;
+  margin-top: 28px;
+  text-align: center;
+  margin-left: 0px;
+  margin-right: 0px;
+  font-family: Arial;
+  font-size: 12px;
+}
+#obrazovanie{
+  width: 700px;
+  text-align: justify;
+  font-size: 17px;
+  line-height: 22px;
+  font-family: Arial;
+  margin-top: 120px;
+  margin-left: 38px;
+  border: 2px solid;
+  padding: 10px;
+}
+#obrazovanie a{
+  text-decoration: none;
+}
+#slika3{
+  margin-top: 93px;
+  margin-left: 190px;
+  border: 2px solid;
+}
+#slika4{
+  margin-bottom: -200px;
+  margin-left: 310px;
+  border: 2px solid;
+}
+#levo{
+  display: inline-block;
+  margin-left: 50px;
+  margin-top: 150px;
+  width: 300px;
+  line-height: 22px;
+  font-family: Arial;
+  text-align: justify;
+}
+#desno{
+  display: inline-block;
+  margin-left: 400px;
+  margin-top: -350px;
+  width: 300px;
+  line-height: 22px;
+  font-family: Arial;
+  text-align: justify;
+}
+#levo>ul>li{
+  list-style-image: url("slika5.png");
+}
+#slika6{
+  position: absolute;
+margin-top: -250px;
+  margin-left: 50px;
+  border: 2px solid;
+}
+#footer3{
+  background: white;
+  height: 20px;
+  margin-top: 47px;
+  text-align: center;
+  margin-left: -8px;
+  margin-right: -8px;
+  font-family: Arial;
+  font-size: 12px;
+}
+#selection a:hover{
+  background: yellow;
+  color: black;
+  border: 1px solid;
+}
