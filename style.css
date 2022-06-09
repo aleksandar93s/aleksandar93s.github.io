@@ -125,7 +125,7 @@ body{
 }
 #hobi{
   width: 300px;
-  margin-top: 200px;
+  margin-top: 180px;
   margin-left: 50px;
   text-align: justify;
   font-size: 17px;
@@ -138,7 +138,7 @@ body{
 #slika2{
   display: block;
   margin-left: 400px;
-  margin-top: -435px;
+  margin-top: -460px;
 }
 #footer2{
   background: white;
@@ -215,4 +215,14 @@ margin-top: -250px;
   background: yellow;
   color: black;
   border: 1px solid;
+}
+#footer4{
+  background: white;
+  height: 20px;
+  margin-top: 30px;
+  text-align: center;
+  margin-left: -8px;
+  margin-right: -8px;
+  font-family: Arial;
+  font-size: 12px;
 }
